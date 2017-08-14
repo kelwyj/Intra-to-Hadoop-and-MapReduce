@@ -1,3 +1,10 @@
-             Introduction to Data Science in Python
+Intro to Hadoop and MapReduce
 
-This course will introduce the basics of the python programming environment, including how to download and install python, expected fundamental python programming techniques, and how to find help with python programming questions. The course will also introduce data manipulation and cleaning techniques using the popular python pandas data science library and introduce the abstraction of the DataFrame as the central data structure for data analysis. The course will end with a statistics primer, showing how various statistical measures can be applied to pandas DataFrames.
+1 Big Data
+2 Problem Set
+3 HDFS and MapReduce
+4 Problem Set
+5 MapReduce Code
+6 Project
+7 MapReduce Design Patterns
+8 Project Prep
